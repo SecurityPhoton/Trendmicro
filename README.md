@@ -1,5 +1,6 @@
 # Trendmicro
-![Image](/img/logo.png) 
+![Image](/img/trendmicro-logo.png) 
+
 Trendmicro product scripts
 
 ## Backup Scripts
