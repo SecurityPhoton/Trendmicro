@@ -1,5 +1,5 @@
 # Trend Micro Apex One Backup Script
-It is additional tool for backup and does not replace OsceMigrate tool!
+***It is additional tool for backup and does not replace OsceMigrate tool!*** </br>
 This PowerShell script is designed to automate the backup process for Trend Micro Apex One by copying specific files and directories, as well as a registry key, to a designated backup location. The script then archives these files into a single ZIP file with the current date and time in the filename.
 
 ## Features
