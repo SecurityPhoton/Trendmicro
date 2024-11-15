@@ -11,7 +11,6 @@ $eicarFilePath = Join-Path -Path $desktopPath -ChildPath 'eicar.com'
 Set-Content -Path $eicarFilePath -Value $eicarContent -Encoding ASCII
 
 # Attempt to run the EICAR test file (WARNING: This will trigger an antivirus response)
-# Attempt to run the EICAR test file (WARNING: This will trigger an antivirus response)
 try {
     Start-Process -FilePath $eicarFilePath
 } catch {
